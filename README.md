@@ -1,5 +1,5 @@
 #SPLAY Daemon
-
+[]: https://travis-ci.org/raziel-carvajal/splay-daemon.svg?branch=master ""
 #Prerequisites
 Some dependencies are required before the compilation and installation of Splay Daemon, please, follow the next steps according to your system.
 
