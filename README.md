@@ -1,5 +1,5 @@
 #SPLAY Daemon
-![][splay-daemon_status]
+[![Build Status](https://travis-ci.org/raziel-carvajal/splay-daemon.svg?branch=master)](https://travis-ci.org/raziel-carvajal/splay-daemon)
 
 #Prerequisites
 Some dependencies are required before the compilation and installation of Splay Daemon, please, follow the next steps according to your system.
@@ -74,5 +74,3 @@ Compile base64 library for Lua5.2
 ```
 
 If you have installed the headers files of Lua and the libraries of Lua, Openssl or Crypto in a different location, you have to add (with the right directories) the last options when you run ```configure``` .
-
-[splay-daemon_status]: https://travis-ci.org/raziel-carvajal/splay-daemon.svg?branch=master
