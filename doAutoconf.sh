@@ -22,5 +22,5 @@ aclocal
 autoheader
 autoconf
 automake --add-missing
-./configure
-make dist
+#./configure
+#make dist
