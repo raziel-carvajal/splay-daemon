@@ -2,5 +2,3 @@ language: c
 compiler: gcc
 before_install:
   - sudo apt-get install lua5.2 liblua5.2 liblua5.2-dev libssl-dev lua-socket lua-sec openssl
-install: true
-script: ./configure && make
