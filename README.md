@@ -1,5 +1,5 @@
 #SPLAY Daemon
-[![][splay-daemon_status]]
+![][splay-daemon_status]
 
 #Prerequisites
 Some dependencies are required before the compilation and installation of Splay Daemon, please, follow the next steps according to your system.
